@@ -1,0 +1,10 @@
+{
+  "migrator.online": {
+    "status": {
+      "tooltip": "In development mode. Migrator available.",
+      "color": "is-success",
+      "icon": "circle",
+      "active": true
+    }
+  }
+}
